@@ -8,28 +8,28 @@ Hyprland working.
 
 ## List of Pages
 
-- **[Must-Have](./Must-have)**
+- **[Must-Have](./Must-have.md)**
 
-- **[Hypr Ecosystem](./Hypr-Ecosystem)**
+- **[Hypr Ecosystem](./Hypr-Ecosystem.md)**
 
-- **[Status Bars](./Status-Bars)**
+- **[Status Bars](./Status-Bars.md)**
 
-- **[App Launchers](./App-Launchers)**
+- **[App Launchers](./App-Launchers.md)**
 
-- **[Wallpapers](./Wallpapers)**
+- **[Wallpapers](./Wallpapers.md)**
 
-- **[Screen Sharing](./Screen-Sharing)**
+- **[Screen Sharing](./Screen-Sharing.md)**
 
-- **[App Clients](./App-Clients)**
+- **[App Clients](./App-Clients.md)**
 
-- **[Color Pickers](./Color-Pickers)**
+- **[Color Pickers](./Color-Pickers.md)**
 
-- **[Clipboard Managers](./Clipboard-Managers)**
+- **[Clipboard Managers](./Clipboard-Managers.md)**
 
-- **[Hyprland Desktop Portal](../Hypr-Ecosystem/xdg-desktop-portal-hyprland)**
+- **[Hyprland Desktop Portal](../Hypr-Ecosystem/xdg-desktop-portal-hyprland.md)**
 
-- **[File Managers](./File-Managers)**
+- **[File Managers](./File-Managers.md)**
 
-- **[Other](./Other)**
+- **[Other](./Other.md)**
 
-- **[Systemd startup](./Systemd-start)**
+- **[Systemd startup](./Systemd-start.md)**
